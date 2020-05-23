@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\envs\\tensorflow\\python.exe",
+    "python.linting.flake8Args": [
+        "\"python.linting.flake8Args\": [\"--max-line-length=1000\"]"
+    ]
+}
