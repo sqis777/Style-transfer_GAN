@@ -26,4 +26,4 @@ Pix2Pix|tensorflow-gpu 1.10.0
 
 ***本实验所用到的数据集、得到的训练结果及训练成熟的模型文件不包含在本项目中***
 
-***链接为： 提取码：***
+***链接为：https://pan.baidu.com/s/1JvMzehuzees_h1bEUaWIfA 提取码：kdcv***
